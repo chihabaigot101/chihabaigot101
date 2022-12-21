@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+📫 How to reach me: [Email](mailto:chihab.hajji@aigot.com)
 <!--
 **chihabaigot101/chihabaigot101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
